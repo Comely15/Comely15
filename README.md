@@ -26,7 +26,6 @@
 ### Backend & Infra
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
 </p>
@@ -36,7 +35,6 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 </p>
 
 ---
@@ -44,7 +42,7 @@
 ## 📌 Side Projects
 
 ### ⛪ [The Time Log.today](https://thetimelog.today)
-> **"오늘 하루도 말씀으로 기록하다"**  
+> **"오늘 하루도 시간으로 기록하다"**  
 - 📱 Flutter 기반 시간 기록 앱
 - ☁️ Firebase Authentication + Firestore + Cloud Functions
 - 🔎 일정 검색, 즐겨찾기, 필터/정렬, UI 최적화
