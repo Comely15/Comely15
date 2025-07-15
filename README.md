@@ -96,8 +96,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-id&theme=algolia&row=1" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-id&theme=tokyonight&hide_border=true" />
-</p>
