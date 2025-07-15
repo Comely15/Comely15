@@ -7,13 +7,24 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
 - 🌱 끊임없이 배우고 기록하는 개발자입니다.
 - 🌼 사용자 경험(UX)과 클린 아키텍처에 진심입니다.
-- 🛠 아이디어부터 기획, 디자인, 개발, 배포까지 경험해 본 1인 개발자입니다.
+- 🛠 아이디어부터 기획, 디자인, 개발, 배포까지 가능한 1인 개발자입니다.
 - ⛪ 사회적 가치를 더하는 프로젝트에 관심이 많습니다.
+- ✍️ 개발 지식과 일상의 문제를 연결하는 글쓰기를 좋아합니다.
 - 🗓️ 꾸준함이 장점이며, 나만의 리듬을 만드는 걸 좋아합니다.
+
+
+---
+
+## 💡 What I Value
+
+- 🤝 **협업**과 커뮤니케이션을 중요하게 생각합니다.
+- 🧠 **왜** 그렇게 동작하는지, 개념 중심으로 깊이 파고듭니다.
+- ✨ 작고 단단한 구조를 만들고, 점진적으로 확장하는 걸 선호합니다.
+- 🧭 기술은 결국 **사람을 위한 도구**라는 철학을 갖고 있습니다.
 
 ---
 
@@ -60,12 +71,13 @@
 
 ---
 
-## 📚 Currently Studying
-
-- 📱 Clean Architecture in Flutter  
-- 🏛️ DDD with Spring Boot & Kotlin  
-- ⚛️ React Server Components  
-- 🧱 NestJS & TypeORM  
+## 📘 Learning by Doing
+- 🔧 **Clean Architecture in Flutter** 실습 중  
+  ↪ `Riverpod` 기반 상태 관리, 의존성 주입 구조, 디렉터리 분리  
+- 📚 **Spring Boot 게시판 API 구현**  
+  ↪ 계층 구조, DTO/Entity 분리, `@Valid`, REST Docs 사용  
+- 🌐 **React + TypeScript Todo 앱**  
+  ↪ 컴포넌트 재사용, 타입 안정성, 상태 관리(`useReducer`, `Context`) 실습  
 
 ---
 
@@ -83,5 +95,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Comely15&theme=algolia&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github-id&theme=algolia&row=1" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-id&theme=tokyonight&hide_border=true" />
 </p>
