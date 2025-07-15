@@ -2,7 +2,7 @@
 <h3 align="center">💻 A Flutter & Web Developer based in Korea 🇰🇷</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Passionate+about+clean+code+and+UX;Loves+building+apps+that+inspire+people;Let's+build+with+purpose+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Passionate+about+clean+code+and+UX;Building+apps+that+inspire+people;Let's+build+with+purpose+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## 🧑‍💻 About Me
 
 - 🌱 끊임없이 배우고 기록하는 개발자입니다.
-- 🧠 사용자 경험(UX)과 클린 아키텍처에 진심입니다.
+- 🌼 사용자 경험(UX)과 클린 아키텍처에 진심입니다.
 - 🛠 아이디어부터 기획, 디자인, 개발, 배포까지 경험해 본 1인 개발자입니다.
 - ⛪ 사회적 가치를 더하는 프로젝트에 관심이 많습니다.
 - 🗓️ 꾸준함이 장점이며, 나만의 리듬을 만드는 걸 좋아합니다.
