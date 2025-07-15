@@ -6,76 +6,72 @@
 </p>
 
 
-<p align="left">
-  <a href="https://github.com/comely1515">
-    <img src="https://komarev.com/ghpvc/?username=comely1515" alt="page views" />
-  </a>
-  <a href="mailto:comely1515@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-comely1515@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://velog.io/@comely_15/posts">
-    <img alt="Velog" src="https://img.shields.io/badge/Velog-Blog-20C997?style=flat&logo=velog&logoColor=white"/>
-  </a>
-  <a href="https://github.com/comely1515?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/comely1515?style=flat&logo=github" />
-  </a>
-</p>
-
-<a href="#joy-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=comely1515&show_icons=true&theme=tokyonight" alt="GitHub Stats" align="right" />
-</a>
-
-<br>
-
 <br><br>
-
-## 👨‍💻 About Me
-
-- 🌼 사용자 경험(UX)과 클린 아키텍처에 진심입니다.  
-- 🛠 아이디어부터 기획, 디자인, 개발, 배포까지 가능한 1인 개발자입니다.  
-- ⛪ 사회적 가치를 더하는 프로젝트에 관심이 많습니다.  
-- ✍️ 개발 지식과 일상의 문제를 연결하는 글쓰기를 좋아합니다.  
-- 🗓️ 꾸준함이 장점이며, 나만의 리듬을 만드는 걸 좋아합니다.  
-
-<br><br>
-
-## 💡 What I Value
-
-- 🤝 **협업**과 커뮤니케이션을 중요하게 생각합니다.  
-- 🧠 **왜** 그렇게 동작하는지, 개념 중심으로 깊이 파고듭니다.  
-- ✨ 작고 단단한 구조를 만들고, 점진적으로 확장하는 걸 선호합니다.  
-- 🧭 기술은 결국 **사람을 위한 도구**라는 철학을 갖고 있습니다.  
-
-<br><br>
-
 ## 🧰 Tech Stack
 
-### 💻 Frontend / Mobile
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-</p>
+> Tools & Languages I love to use
 
-### 🛠 Backend / Infra
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
-</p>
-
-### 🗃️ Database & Tools
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
+      <br/>Flutter
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
+      <br/>Dart
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br/>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br/>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br/>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <br/>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br/>CSS3
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br/>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
+      <br/>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" />
+      <br/>Kotlin
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+      <br/>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      <br/>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub Actions" />
+      <br/>GitHub Actions
+    </td>
+  </tr>
+</table>
 
 <br><br>
+
 
 ## 📌 Projects
 
