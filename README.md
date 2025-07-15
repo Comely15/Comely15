@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Passionate+about+clean+code+and+UX;Building+apps+that+inspire+people;Let's+build+with+purpose+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
-<hr style="height:1px; border:none; background-color:#ccc;" />
+<hr style="height:0.5px; border:none; background-color:#ccc;" />
 
 
 ## 👨‍💻 About Me
