@@ -48,7 +48,9 @@
 - ☁️ Firebase Authentication + Firestore + Cloud Functions
 - 🔎 일정 검색, 즐겨찾기, 필터/정렬, UI 최적화
 - 🏷️ 사용자 맞춤형 태그와 컬렉션 기능
-     카테고리 CRUD, 일정 추가/제거, 사용자 관리 기능 포함
+- 🏷️ 카테고리 CRUD
+- 📱 위젯 설정
+- 👩🏻‍💻 사용자 관리 기능
 
 ---
 
@@ -63,7 +65,7 @@
 
 ## 📫 Let's Connect
 
-- 💬 Email: comely1515@gmail.com**
+- 💬 Email: comely1515@gmail.com
 - 🌍 Blog: [velog.io/@comely_15.com](https://velog.io/@comely_15/posts)  
 
 ---
