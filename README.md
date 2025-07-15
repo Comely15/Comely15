@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Passionate+about+clean+code+and+UX;Building+apps+that+inspire+people;Let's+build+with+purpose+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
-<div style="margin-top: 60px;"></div>
+<br><br>
 
 ## 👨‍💻 About Me
 
@@ -16,7 +16,7 @@
 - ✍️ 개발 지식과 일상의 문제를 연결하는 글쓰기를 좋아합니다.  
 - 🗓️ 꾸준함이 장점이며, 나만의 리듬을 만드는 걸 좋아합니다.  
 
-<div style="margin-top: 60px;"></div>
+<br><br>
 
 ## 💡 What I Value
 
@@ -25,7 +25,7 @@
 - ✨ 작고 단단한 구조를 만들고, 점진적으로 확장하는 걸 선호합니다.  
 - 🧭 기술은 결국 **사람을 위한 도구**라는 철학을 갖고 있습니다.  
 
-<div style="margin-top: 160px;"></div>
+<br><br>
 
 ## 🧰 Tech Stack
 
@@ -68,7 +68,7 @@
 - 카테고리 CRUD 및 위젯 기능  
 - 관리자용 사용자 관리 시스템  
 
-<div style="margin-top: 60px;"></div>
+<br><br>
 
 ## 📘 Learning by Doing
 
@@ -81,7 +81,7 @@
 - 🌐 **React + TypeScript Todo 앱**  
   ↪ 컴포넌트 재사용, 타입 안정성, 상태 관리(`useReducer`, `Context`) 실습  
 
-<div style="margin-top: 60px;"></div>
+<br><br>
 
 ## 📫 Let's Connect!
 
@@ -94,4 +94,4 @@
   </a>
 </p>
 
-<div style="margin-top: 60px;"></div>
+<br><br>
