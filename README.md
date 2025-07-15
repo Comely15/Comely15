@@ -71,14 +71,14 @@
 
 ## 📘 Learning by Doing
 
-- 🔧 **Clean Architecture in Flutter** 실습 중  
-  ↪ `Riverpod` 기반 상태 관리, 의존성 주입 구조, 디렉터리 분리  
+- 🔧 **Clean Architecture in Flutter** 
+  `Riverpod` 기반 상태 관리, 의존성 주입 구조, 디렉터리 분리  
 
 - 📚 **Spring Boot 게시판 API 구현**  
-  ↪ 계층 구조, DTO/Entity 분리, `@Valid`, REST Docs 사용  
+  계층 구조, DTO/Entity 분리, `@Valid`, REST Docs 사용  
 
 - 🌐 **React + TypeScript Todo 앱**  
-  ↪ 컴포넌트 재사용, 타입 안정성, 상태 관리(`useReducer`, `Context`) 실습  
+  컴포넌트 재사용, 타입 안정성, 상태 관리(`useReducer`, `Context`) 실습  
 
 <br><br>
 
