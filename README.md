@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Seong Hui!</h1>
+<h1 align="center">Hi there 👋, I'm Joy!</h1>
 <h3 align="center">💻 A Flutter & Web Developer based in Korea 🇰🇷</h3>
 
 <p align="center">
