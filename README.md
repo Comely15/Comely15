@@ -5,6 +5,28 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Passionate+about+clean+code+and+UX;Building+apps+that+inspire+people;Let's+build+with+purpose+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
+
+<p align="left">
+  <a href="https://github.com/comely1515">
+    <img src="https://komarev.com/ghpvc/?username=comely1515" alt="page views" />
+  </a>
+  <a href="mailto:comely1515@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-comely1515@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://velog.io/@comely_15/posts">
+    <img alt="Velog" src="https://img.shields.io/badge/Velog-Blog-20C997?style=flat&logo=velog&logoColor=white"/>
+  </a>
+  <a href="https://github.com/comely1515?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/comely1515?style=flat&logo=github" />
+  </a>
+</p>
+
+<a href="#joy-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=comely1515&show_icons=true&theme=tokyonight" alt="GitHub Stats" align="right" />
+</a>
+
+<br>
+
 <br><br>
 
 ## 👨‍💻 About Me
