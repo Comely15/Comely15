@@ -83,7 +83,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-id&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Comely15&theme=algolia&row=1" />
 </p>
