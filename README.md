@@ -54,9 +54,9 @@
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
 </p>
 
-<div style="margin-top: 60px;"></div>
+<br><br>
 
-## 📌 Side Projects
+## 📌 Projects
 
 ### ⛪ [The Time Log.today](https://thetimelog.today)
 > **"오늘 하루도 시간으로 기록하다"**  
