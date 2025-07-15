@@ -75,12 +75,16 @@
 - `Riverpod` 기반의 상태 관리
 - 의존성 주입 구조 설계
 - 디렉터리 분리 및 계층화 적용
+
 <br>
+
 ### 📚 Spring Boot 게시판 API 구현
 - 계층 분리: Controller → Service → Repository
 - `DTO`/`Entity` 구분, 유효성 검증(`@Valid`)
 - `Spring REST Docs`를 통한 API 문서화
+
 <br>
+
 ### 🌐 React + TypeScript Todo 앱
 - 컴포넌트 재사용 구조 설계
 - `TypeScript` 기반 타입 안정성 강화
