@@ -9,7 +9,7 @@
 <br><br>
 ## 🧰 Tech Stack
 
-> Tools & Languages I love to use
+> Tools, languages, and other things that I like to work with.
 
 <table>
   <tr>
