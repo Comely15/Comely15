@@ -139,6 +139,9 @@
   <a href="https://velog.io/@comely_15/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-Blog-20C997?style=flat&logo=velog&logoColor=white"/>
   </a>
+  <a href="https://comely15.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Pages-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <br><br>
