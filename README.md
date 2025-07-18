@@ -94,15 +94,15 @@
 
 ## 📌 Projects
 
-### ⛪ [The Time Log.today](https://thetimelog.today)
-> **"매일을 시간으로 기록"**  
+### Time Log
+> **"시간으로 일상을 기록"**  
 
 - Flutter 기반 시간 기록 앱  
 - Firebase Authentication + Firestore + Cloud Functions  
-- 일정 검색, 즐겨찾기, 필터/정렬  
-- 사용자 맞춤형 태그 및 컬렉션 기능  
-- 카테고리 CRUD 및 위젯 기능  
-- 관리자용 사용자 관리 시스템  
+- 검색, 즐겨찾기, 필터/정렬  
+- 사용자 맞춤형 태그 및 카테고리  
+- 카테고리, 태그, 메모, 일정 CRUD 및 위젯 기능  
+- 분석 도표
 
 <br><br>
 
