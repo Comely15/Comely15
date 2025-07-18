@@ -95,7 +95,7 @@
 ## 📌 Projects
 
 ### ⛪ [The Time Log.today](https://thetimelog.today)
-> **"오늘 하루도 시간으로 기록하다"**  
+> **"매일을 시간으로 기록"**  
 
 - Flutter 기반 시간 기록 앱  
 - Firebase Authentication + Firestore + Cloud Functions  
