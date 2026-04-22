@@ -72,7 +72,7 @@
 </table>
 
 <br><br>
-## 👨‍💻 About Me
+## About Me
 
 - 🌱 끊임없이 배우고 기록하는 개발자입니다.  
 - 🌼 사용자 경험(UX)과 클린 아키텍처에 진심입니다.  
@@ -83,7 +83,7 @@
 
 <br>
 
-## 💡 What I Value
+## What I Value
 
 - 🤝 **협업**과 커뮤니케이션을 중요하게 생각합니다.  
 - 🧠 **왜** 그렇게 동작하는지, 개념 중심으로 깊이 파고듭니다.  
@@ -92,7 +92,7 @@
 
 <br><br>
 
-## 📌 Projects
+## Projects
 
 ### Time Log
 > **"시간으로 일상을 기록"**  
@@ -106,7 +106,7 @@
 
 <br><br>
 
-## 📘 Learning by Doing
+## Learning by Doing
 
 ### 🔧 Clean Architecture in Flutter
 - `Riverpod` 기반의 상태 관리
@@ -115,14 +115,14 @@
 
 <br>
 
-### 📚 Spring Boot 게시판 API 구현
+### Spring Boot 게시판 API 구현
 - 계층 분리: Controller → Service → Repository
 - `DTO`/`Entity` 구분, 유효성 검증(`@Valid`)
 - `Spring REST Docs`를 통한 API 문서화
 
 <br>
 
-### 🌐 React + TypeScript Todo 앱
+### React + TypeScript Todo 앱
 - 컴포넌트 재사용 구조 설계
 - `TypeScript` 기반 타입 안정성 강화
 - 상태 관리: `useReducer` + `Context API` 패턴 적용
@@ -130,7 +130,7 @@
 <br><br>
 
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <p>
   <a href="mailto:comely1515@gmail.com">
