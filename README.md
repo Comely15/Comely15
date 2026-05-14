@@ -1,11 +1,15 @@
 <h1 align="center">Joy</h1>
 
-<p align="center" style="font-size: 20px;">
-  Building thoughtful products with scalable architecture, adaptive learning, and AI-driven systems.
+<p align="center">
+  <span style="font-size: 22px;">
+    Building thoughtful products with scalable architecture, adaptive learning, and AI-driven systems.
+  </span>
 </p>
 
-<p align="center" style="font-size: 18px;">
-  Flutter • AI Engineering • RAG • State Management
+<p align="center">
+  <span style="font-size: 18px;">
+    Flutter • AI Engineering • RAG • State Management
+  </span>
 </p>
 
 <br>
