@@ -1,20 +1,19 @@
-<h1 align="center">
-  Joy
-</h1>
+<h1 align="center">Joy</h1>
 
-<div align="center">
+<p align="center">
+  Building thoughtful products with scalable architecture, adaptive learning, and AI-driven systems.
+</p>
 
-Building thoughtful products with scalable architecture, adaptive learning, and AI-driven systems.
-
-Flutter • AI Engineering • RAG • State Management
-
-</div>
+<p align="center">
+  Flutter • AI Engineering • RAG • State Management
+</p>
 
 <br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
+
 
 ## About Me
 
