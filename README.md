@@ -1,7 +1,7 @@
 <h1 align="center">Joy</h1>
 
 <p align="center">
-  <span style="font-size: 22px;">
+  <span style="font-size: 20px;">
     Building thoughtful products with scalable architecture, adaptive learning, and AI-driven systems.
   </span>
 </p>
@@ -34,8 +34,30 @@ turning ideas into working products, and exploring unfamiliar domains with curio
 
 ## Current Direction
 
-<p> <img src="https://img.shields.io/badge/AI_Engineering-111111?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG_Systems-111111?style=for-the-badge"/> <img src="https://img.shields.io/badge/Clean_Architecture-111111?style=for-the-badge"/> <img src="https://img.shields.io/badge/UX_Focused-111111?style=for-the-badge"/> </p> <br>
+<p align="left">
+  <img
+    alt="AI Engineering"
+    src="https://img.shields.io/badge/AI_Engineering-111111?style=for-the-badge"
+    draggable="false"
+  />
+  <img
+    alt="RAG Systems"
+    src="https://img.shields.io/badge/RAG_Systems-111111?style=for-the-badge"
+    draggable="false"
+  />
+  <img
+    alt="Clean Architecture"
+    src="https://img.shields.io/badge/Clean_Architecture-111111?style=for-the-badge"
+    draggable="false"
+  />
+  <img
+    alt="UX Focused"
+    src="https://img.shields.io/badge/UX_Focused-111111?style=for-the-badge"
+    draggable="false"
+  />
+</p>
 
+<br>
 
 ## Tech
 <p align="left"> <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,firebase,nodejs,spring,python,postgres,git&theme=light" /> </p> <br>
