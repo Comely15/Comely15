@@ -13,7 +13,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
-## About
+## About Me
 
 ```text
 I enjoy designing systems that stay simple as they grow.
@@ -23,15 +23,12 @@ that make products easier to maintain, iterate, and improve over time.
 
 I'm naturally drawn to learning new technologies quickly,
 turning ideas into working products, and exploring unfamiliar domains with curiosity.
-## Focus
-
-AI Engineering • RAG • Flutter Architecture • State Management
-
-</br>
+````
 
 ## Current Direction
 
 <p> <img src="https://img.shields.io/badge/AI_Engineering-111111?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG_Systems-111111?style=for-the-badge"/> <img src="https://img.shields.io/badge/Clean_Architecture-111111?style=for-the-badge"/> <img src="https://img.shields.io/badge/UX_Focused-111111?style=for-the-badge"/> </p> <br>
+
 
 ## Tech
 <p align="left"> <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,firebase,nodejs,spring,python,postgres,git&theme=light" /> </p> <br>
