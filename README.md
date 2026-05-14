@@ -15,10 +15,8 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:39FF14,100:1e3a8a"/>
 </p>
-
-
 
 ## About Me
 
