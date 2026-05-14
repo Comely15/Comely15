@@ -1,4 +1,4 @@
-<h1 align="center">Joy</h1>
+<h1 align="center" style="border-bottom: none;">Joy</h1>
 
 <p align="center">
   Building thoughtful products with scalable architecture, adaptive learning, and AI-driven systems.
